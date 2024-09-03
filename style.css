@@ -7,19 +7,19 @@
   #navbar{
   border-style: solid;
   border-width: 5px;
-  border-color: #92869c;
+  border-color: skyblue;
   height: 100%;
   top: -5px;
   left: -5px;
   padding: 5px;
   text-align: center;
-  color: #92869c;
-  background-color: skyblue;
+  color: white;
+  background-color: black;
   
   }
   
   a:hover{
-  background-color: #92869c;
+  color: #92869c;
   }
   code{
   background-color: #92869c;
